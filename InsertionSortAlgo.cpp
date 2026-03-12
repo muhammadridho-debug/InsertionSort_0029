@@ -21,6 +21,15 @@ void input() {
     }
 }
 
+void insertionsort() {
+    int temp;
+    int j;
+
+    for (int i = 1; i < n; i++) {
+        
+    }
+}
+
 void display() {
     cout << "\n=================";
     cout << "\nElemen Array" << endl;
