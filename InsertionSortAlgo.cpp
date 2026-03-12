@@ -32,6 +32,7 @@ void insertionsort() {
             arr[j + 1] = arr[j];
             j--;
         }
+        arr[j + 1] = temp;
     }
 }
 
